@@ -1,2 +1,2 @@
-# 201600041KangSaewoon
+# 1KangSaewoon
 Assignment for Class 'Logic and Basic Programming'
